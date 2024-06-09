@@ -3,7 +3,7 @@
 The WiFi where I live was giving me a lot of trouble, and I live alone, so I chose not to even bother with it and just use my Android phone as a Mobile Internet Hotspot for all my internet needs. This was fine for most things, but setting up my WiZ Smart Lights turned out to be a bit of an issue, and needed some hacking to get working. I figured I'd publish a little tutorial on how to get it done, mostly for myself but also for anyone else having this problem (or anyone who's just curious). I haven't tried it with anything other than Smart Lights on Android, so YMMV with other devices (although I'd be interested to hear the results if you tried this tutorial with anything else).
 
 ### Usage Notes
-The lights will only be available when your hotspot is turned on and reachable by the lights, since they can't connect to anything if not. This also means that if you have a big house you might need to move into a specific room to be able to use a light, instead of having full coverage at all times, and you'll be unable to use your lights remotely if you're not home.
+The lights will only be available when your hotspot is turned on and in their range. This also means that if you have a big house you might need to move into a specific room to be able to use a light, instead of having full coverage at all times, and you'll be unable to use your lights remotely if you're not home.
 
 ### Tutorial
 First off: You'll need some kind of computer, since the app needs to _think_ it's connected to WiFi (but can actually successfully do everything through your mobile internet if you trick it to).
